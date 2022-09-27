@@ -9,7 +9,7 @@ $ npm install
 ```
 
 ## Commands
-
+ 
 ### `npm run start`
 
 Starts the local Lambda development environment.
